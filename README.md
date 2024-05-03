@@ -1,5 +1,5 @@
-### Hi there!! 👋
-## My name is Polina
+# Hi there!! 👋
+### My name is Polina
 
 <!--
 **lumenightt/lumenightt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
